@@ -1,0 +1,726 @@
+<svg class="ldp-firefly" width="630px"  height="200px"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" style="background: none;"><defs>
+  <pattern id="ldp-4ac5318f51100c" x="0" y="0" width="630" height="200" patternUnits="userSpaceOnUse">
+    <g style="isolation:isolate"> <path id="ldp-firefly-241ad2de3f4ca-0" d="M514.998 44.387 Q 505.933 46.191 496.536 45.301 T478.534 47.160000000000004 T463.634 51.244 T448.97700000000003 59.017 T436.164 68.253 T420.619 80.098 T408.995 89.48100000000001 T392.738 99.291" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-1" d="M595.743 54.341 Q 603.537 57.029 612.1990000000001 55.383 T629.11 61.532000000000004 T641.755 70.688 T654.155 83.994 T662.88 100.429 T670.133 117.087 T680.703 131.517 T692.436 140.429" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-2" d="M411.494 163.785 Q 404.516 162.004 397.127 162.78 T379.097 163.523 T360.721 168.548 T344.153 168.888 T329.398 165.843 T315.19 163.75900000000001 T297.63 165.328 T280.044 164.532" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-3" d="M551.23 154.928 Q 551.652 145.244 551.662 135.547 T555.208 120.212 T557.313 105.179 T556.558 87.363 T555.466 72.546 T551.264 58.458 T550.494 38.647 T551.721 20.776" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-4" d="M195.887 81.425 Q 189.77700000000002 77.537 182.244 76.559 T165.513 70.263 T153.453 61.922000000000004 T137.355 55.545 T122.101 52.353 T103.927 46.193 T85.523 42.216 T68.333 40.158" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-5" d="M101.803 86.872 Q 105.139 79.24 104.568 70.444 T105.241 53.695 T105.641 34.777 T109.97 20.3 T112.729 1.182 T110.436 -13.317 T103.062 -31.687 T97.308 -44.783" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-6" d="M104.501 193.429 Q 105.037 184.675 102.685 175.983 T96.121 160.88400000000001 T88.541 142.895 T82.724 124.264 T75.894 107.861 T67.386 92.461 T58.59 75.126 T53.958 56.839" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-7" d="M389.71000000000004 131.806 Q 397.243 138.208 403.29 146.177 T414.327 154.936 T427.96500000000003 168.494 T440.75100000000003 182.567 T448.776 194.236 T455.47200000000004 209.63400000000001 T459.721 223.707 T467.545 241.048" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-8" d="M344.247 122.87 Q 339.569 130.168 339.808 139.629 T340.825 158.343 T341.144 176.822 T339.11 194.939 T339.43 209.011 T340.291 228.543 T340.97700000000003 246.233 T341.981 261.959" fill="none" stroke="none"></path>  <path id="ldp-firefly-241ad2de3f4ca-9" d="M356.544 115.287 Q 349.139 110.19800000000001 343.65000000000003 102.771 T331.851 89.60300000000001 T322.644 78.425 T316.062 65.378 T306.956 50.319 T301.81 33.971000000000004 T300.255 19.707 T298.269 1.469" fill="none" stroke="none"></path>      <g transform="translate(-630 -200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 -200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 0)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(-630 200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 -200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 0)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(0 200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 -200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 0)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="496.536" cy="45.301" r="1.49085" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animate attributeName="r" values="0;2.158703459537641;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-0.34609934709578405s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-0"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="612.1990000000001" cy="55.383" r="1.50942" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animate attributeName="r" values="0;4.399016443709029;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.2419511434491226s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-1"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="397.127" cy="162.78" r="2.74111" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animate attributeName="r" values="0;3.252102141038552;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-5.305300844204977s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-2"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="551.662" cy="135.547" r="1.54159" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animate attributeName="r" values="0;4.384849629549607;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-1.1089642902186554s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-3"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="182.244" cy="76.559" r="4.02127" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animate attributeName="r" values="0;4.738007767171914;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-6.171105141974064s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-4"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="104.568" cy="70.444" r="1.11246" fill="rgba(100%,96.60585460599334%,87.63561320754718%,0.458)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animate attributeName="r" values="0;2.394512682522591;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.5742207820205945s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-5"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="102.685" cy="175.983" r="0.898869" fill="rgba(100%,99.35325623858795%,94.30424528301886%,0.441)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animate attributeName="r" values="0;4.168951814722011;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-3.6723155599163038s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-6"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="403.29" cy="146.177" r="1.01685" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animate attributeName="r" values="0;2.2021431561315015;0" keyTimes="0;0.1;1" dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s"></animate>
+         <animateMotion dur="3.75s" repeatCount="indefinite" begin="-4.57315746686879s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-7"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="339.808" cy="139.629" r="0.556966" fill="rgba(100%,100%,100%,0.667)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animate attributeName="r" values="0;2.3275174881772345;0" keyTimes="0;0.1;1" dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s"></animate>
+         <animateMotion dur="2.5s" repeatCount="indefinite" begin="-3.861583834389336s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-8"></mpath>
+         </animateMotion>
+</circle>
+     </g>     <g transform="translate(630 200)">
+<circle cx="343.65000000000003" cy="102.771" r="0.678988" fill="rgba(100%,100%,100%,0.558)" style="mix-blend-mode:screen">
+  <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animate attributeName="r" values="0;3.888264864363309;0" keyTimes="0;0.1;1" dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s"></animate>
+         <animateMotion dur="7.5s" repeatCount="indefinite" begin="-3.2212820806647287s">
+           <mpath xlink:href="#ldp-firefly-241ad2de3f4ca-9"></mpath>
+         </animateMotion>
+</circle>
+     </g></g>
+  </pattern>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="url(#ldp-4ac5318f51100c)"></rect></svg>
